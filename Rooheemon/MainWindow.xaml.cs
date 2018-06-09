@@ -10,7 +10,7 @@ namespace Rooheemon
 {
     /// <summary>
     /// Interação lógica para MainWindow.xam
-    /// </summary>
+    /// </summary> 
     public partial class MainWindow : Window
     {
         public SeriesCollection SeriesCollection { get; set; }
